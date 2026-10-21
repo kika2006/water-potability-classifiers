@@ -1,6 +1,6 @@
 # Is This Water Safe to Drink? Naive Bayes and a Neural Network from Scratch
 
-**Author:** Francisca (Kika) Freixo  
+**Author:** Francisca Freixo  
 
 Predicting water potability from 9 chemical measurements with two classifiers written **from scratch in base R**, without ML libraries: a **Gaussian Naive Bayes** classifier and a **multi-layer perceptron** trained with backpropagation.
 
