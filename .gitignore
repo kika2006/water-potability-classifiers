@@ -1,0 +1,8 @@
+.Rhistory
+.RData
+.Rproj.user/
+*_cache/
+*_files/
+.DS_Store
+data/*
+!data/README.md
